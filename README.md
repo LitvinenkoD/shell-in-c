@@ -1,8 +1,3 @@
-Net ids:
-dl1207
-mv686
-
-
 Testing:
 run make, then ./tester to test
 
